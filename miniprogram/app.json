@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#d2d6e1",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#d2d6e1",
+    "selectedColor": "#404963",
+    "borderStyle": "black",
+    "backgroundColor": "#edeff5",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "image/time (1).png",
+        "selectedIconPath": "image/time.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "iconPath": "image/view (1).png",
+        "selectedIconPath": "image/view.png",
+        "text": "记录"
+      },
+      {
+        "pagePath": "pages/setting/setting",
+        "iconPath": "image/setting (1).png",
+        "selectedIconPath": "image/setting.png",
+        "text": "设置"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
