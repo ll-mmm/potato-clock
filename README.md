@@ -6,3 +6,4 @@ a wechat mini program
 ![效果图一](https://github.com/ll-mmm/potato-clock/blob/master/image/2.png)
 ![效果图一](https://github.com/ll-mmm/potato-clock/blob/master/image/3.png)
 ![效果图一](https://github.com/ll-mmm/potato-clock/blob/master/image/4.png)
+[教程](https://github.com/ll-mmm/tomato-clock/blob/master/operating%20steps/operating%20steps.pdf)
