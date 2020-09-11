@@ -6,4 +6,4 @@ function formatTime(time, format) {
 
 module.exports = {
   formatTime: formatTime
-}
+} 
