@@ -31,7 +31,7 @@
       },
       {
         "pagePath": "pages/setting/setting",
-        "iconPath": "image/setting (1).png",
+        "iconPath": "image/setting (1).png", 
         "selectedIconPath": "image/setting.png",
         "text": "设置"
       }
