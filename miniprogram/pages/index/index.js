@@ -146,7 +146,7 @@ Page({
 
 //注意注意，要改的地方,啊!
   saveLog: function(log) {
-
+ 
     db.collection("hello").add({
       data:{
         log
